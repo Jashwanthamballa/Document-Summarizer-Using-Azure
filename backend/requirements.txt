@@ -1,0 +1,11 @@
+azure-identity
+httpx
+python-dotenv
+fastapi
+uvicorn
+PyPDF2
+python-multipart
+sqlalchemy
+textstat
+sentence-transformers
+numpy
